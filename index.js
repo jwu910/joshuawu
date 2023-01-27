@@ -10,7 +10,8 @@ ${chalk.bold('-'.repeat(40))}
 ${chalk.bold('Github:')} https://github.com/jwu910
 ${chalk.bold('LinkedIn:')} https://linkedin.com/in/wujoshua
 ${chalk.bold('NPM:')} https://www.npmjs.com/~jwu910
-${chalk.bold('Portfolio:')} http://joshuawu.me
+${chalk.bold('Portfolio:')} https://joshuawu.me
+${chalk.bold('Schedule a BobaTalk:')} https://calendly.com/wujoshua/boba-talk-30-min
 `,
     {
         borderColor: 'cyan',
