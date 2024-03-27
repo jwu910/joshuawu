@@ -11,7 +11,7 @@ ${chalk.bold('Github:')} https://github.com/jwu910
 ${chalk.bold('LinkedIn:')} https://linkedin.com/in/wujoshua
 ${chalk.bold('NPM:')} https://www.npmjs.com/~jwu910
 ${chalk.bold('Portfolio:')} https://joshuawu.me
-${chalk.bold('Schedule a BobaTalk:')} https://calendly.com/wujoshua/boba-talk-30-min
+${chalk.bold('Schedule a Mentorship Call:')} https://adplist.org/mentors/joshua-wu?session=28642-11-with-josh-wu
 `,
     {
         borderColor: 'cyan',
